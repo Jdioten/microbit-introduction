@@ -1,0 +1,7 @@
+site_name: Python and the micro:bit
+theme: readthedocs
+nav:
+- docs/index.md
+- docs/01-intro.md
+- docs/02-tools.md
+- docs/03-docs.md
