@@ -1,14 +1,5 @@
 # Links
 
-## Local
-
-* MicroPython editor
-  <http://toybox.roadwarrior/PythonEditor/editor.html>
-* micro:bit examples and API reference
-  <http://toybox.roadwarrior/PythonDocs/>
-
-## Online
-
 * Quick start guide
   <https://microbit.org/guide/quick/>
 * MicroPython Editor

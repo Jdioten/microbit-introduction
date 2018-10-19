@@ -5,7 +5,7 @@
 * No driver installation necessary (on most computers)
 
 * Open the MicroPython code editor:
-  <http://toybox.roadwarrior/PythonEditor/editor.html>
+  <https://tech.microbit.org/software/micropython/>
 
 * Get started with your first program
 * Click the Download button to compile it into a .hex file
