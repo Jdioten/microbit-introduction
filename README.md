@@ -6,6 +6,8 @@
 
 A simple introductory course.
 
+[Read online!](https://onitake.github.io/microbit-introduction/)
+
 Build with [mkdocs](https://www.mkdocs.org/):
 
 ```
