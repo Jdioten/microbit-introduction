@@ -1,6 +1,7 @@
 # Introduction to MicroPython
 
-![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png "Creative Commons Attribution-ShareAlike 4.0 International")
+[![Read the docs on github.io](https://img.shields.io/badge/read%20the%20docs-github.io-8ca1af?style=flat-square&logo=read-the-docs)](https://onitake.github.io/microbit-introduction/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/license-CC%20BY--SA%204.0-ef9421?style=flat-square&logo=creative-commons)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Goal: Getting started with the micro:bit and Python 3.
 
